@@ -1,2 +1,2 @@
 n = int(input("Dammi un nro"))
-print (n*2)
+print (n*3)
